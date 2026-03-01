@@ -26,3 +26,11 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
+          
+# Source - https://stackoverflow.com/a/77412363
+# Posted by jessehouwing
+# Retrieved 2026-03-01, License - CC BY-SA 4.0
+
+permissions:
+  contents: read
+  pages: write          # <-- Add this line
