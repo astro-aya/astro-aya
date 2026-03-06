@@ -2,9 +2,9 @@
 I'm a biology college student looking to study astrobiology/paleobiology 🔭
 
 In my free time, I like to practice various skills and hobbies, like:
+- 🌱 Learning HTML/CSS
 - 🎻 Classically trained Violinist
 - 🎶 Learning Piano
-- 🌱 Learning HTML/CSS
 
 I’m currently working on [themes and CSS snippets](https://github.com/astro-aya/ayas-random-css) to use on Discord <img width="18" height="14" alt="discord logo" src="https://github.com/user-attachments/assets/c50b8adf-7c81-4fcd-adb5-1fe59cb51e09" />
 
