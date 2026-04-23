@@ -1,5 +1,5 @@
 # Hi, I'm aya 👋 
-I'm a biology college student looking to study astrobiology/paleobiology 🔭
+I'm a college student studying molecular biology, aiming to one day study astrobiology/paleobiology 🔭
 
 In my free time, I like to practice various skills and hobbies, like:
 - 🌱 Learning HTML/CSS
